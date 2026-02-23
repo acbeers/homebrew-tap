@@ -8,8 +8,8 @@ class Ixargs < Formula
 
   desc "Interactive xargs — run commands against stdin lines in a split-pane TUI"
   homepage "https://github.com/acbeers/ixargs"
-  url "https://github.com/acbeers/ixargs/releases/download/v0.2.0/ixargs-0.2.0.tar.gz"
-  sha256 "4d8a04fa21450b7a512953f2cdbd8d99b9130b6aa8a7dfc6120e02a466825e33"
+  url "https://github.com/acbeers/ixargs/releases/download/v0.2.1/ixargs-0.2.1.tar.gz"
+  sha256 "53d09212b6f3ad9205331ac9946f3671f0e1f490de386a47a1b1760d9752a163"
   license "MIT"
 
   depends_on "python@3.13"

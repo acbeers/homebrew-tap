@@ -6,8 +6,8 @@ class Hdv < Formula
 
   desc "Hierarchical Data Viewer - interactive CSV drill-down for the terminal"
   homepage "https://github.com/acbeers/hdv"
-  url "https://github.com/acbeers/hdv/releases/download/v0.2.1/hdv-0.2.1.tar.gz"
-  sha256 "ce479cc2d94ca716ef97c024f2cd537b05c0a27b8eed7668e064980a5784684a"
+  url "https://github.com/acbeers/hdv/releases/download/v0.2.2/hdv-0.2.2.tar.gz"
+  sha256 "71299e3ee0928b4aac750ae70bac1a6b27f80646cc7514e82bb5411016a8f637"
 
   depends_on "python@3.13"
 
